@@ -3,5 +3,5 @@
 ---
 
 ##**G. U. S. De Silva**
--useless person 
--arrogant 
+  -useless person 
+  -arrogant 

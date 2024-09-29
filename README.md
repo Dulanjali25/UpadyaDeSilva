@@ -1,5 +1,4 @@
 # UpadyaDeSilva
-
-G. U. S. De Silva
-useless person 
-arrogant 
+-G. U. S. De Silva
+-useless person 
+-arrogant 

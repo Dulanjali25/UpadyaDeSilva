@@ -2,6 +2,9 @@
 
 ---
 
-##**G. U. S. De Silva**
-  -useless person 
-  -arrogant 
+<div style="text-align: center;">
+## **G. U. S. De Silva**
+</div>
+
+- Useless person
+- Arrogant

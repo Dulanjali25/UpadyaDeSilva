@@ -27,6 +27,6 @@ G. U. S. De Silva
 - Passionate about technology and its applications.
 - Enjoys outdoor activities and exploring new places.
 - Loves reading books and discussing new ideas.
-- has a fair knowladge in IT
+- Has a fair knowladge in IT.
 
 **Fun Fact:** Upadya has a unique talent for making people laugh and making friends easily!

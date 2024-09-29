@@ -12,7 +12,7 @@ G. U. S. De Silva
 
 **Name:** Upadya De Silva
 
-**Age:** 2@ years old
+**Age:** 22 years old
 
 **Background:** Upadya is a close friend who shares many of my interests. We often study together and support each other in our academic endeavors.
 

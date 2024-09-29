@@ -1,4 +1,4 @@
-# UpadyaDeSilva
+# Upadya De Silva
 
 ---
 
@@ -18,9 +18,8 @@ G. U. S. De Silva
 
 ---
 <div style="text-align: center;">
-<img src=https://github.com/Dulanjali25/UpadyaDeSilva/blob/main/WhatsApp%20Image%202024-09-28%20at%2000.41.37_d661c480.jpg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
+<img src="https://github.com/Dulanjali25/Dulanjali25.github.io/blob/main/WhatsApp%20Image%202024-09-28%20at%2020.10.15_43458e61.jpg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
 </div>
-
 ---
 
 **Interests:** 

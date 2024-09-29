@@ -18,7 +18,7 @@ G. U. S. De Silva
 
 ---
 <div style="text-align: center;">
-<img src="https://github.com/Dulanjali25/UpadyaDeSilva/blob/main/WhatsApp%20Image%202024-09-28%20at%2000.41.37_d661c480.jpg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
+<img src="https://github.com/Dulanjali25/UpadyaDeSilva/blob/main/WhatsApp%20Image%202024-09-28%20at%2000.41.37_d661c480.jpg?raw=true" alt="My Image" style="width: 180px; height: 180px; border-radius: 50%;" />
 </div>
 
 ---
